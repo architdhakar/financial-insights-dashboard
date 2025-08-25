@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "array": "cpp",
+        "memory": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "system_error": "cpp"
+    }
+}
